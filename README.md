@@ -5,7 +5,7 @@ A collection of software tool that support space missions accross the following 
 * Concept exploration
 * Detailed development
 * Production and deployment
-* POperations and support
+* Operations and support
 
 ## Components
 * Requirements
